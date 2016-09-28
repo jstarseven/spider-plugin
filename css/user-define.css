@@ -1,0 +1,21 @@
+body {
+    min-width: 180px;
+    height: 80px;
+    overflow-x: hidden;
+}
+
+img {
+	vertical-align: middle;
+	width: 20px;
+	height: 20px;
+	margin:5px;
+}
+
+table a{
+	font:'黑体';
+	font-size:5px;
+}
+
+.clickable{
+	cursor: pointer;
+}
